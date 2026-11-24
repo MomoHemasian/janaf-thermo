@@ -33,7 +33,7 @@ each table is stored next to the data. See [DATA_SOURCES.md](DATA_SOURCES.md).
 pip install git+https://github.com/MomoHemasian/janaf-thermo.git
 ```
 
-or clone the repository and run `pip install -e .[test]`. It needs Python 3.9 or newer,
+or clone the repository and run `pip install -e .[test]`. It needs Python 3.10 or newer,
 NumPy and SciPy.
 
 ## Use

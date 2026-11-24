@@ -9,7 +9,7 @@ description = "JANAF (2nd ed., 1971) thermochemical tables for 15 species, with 
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "Mohamad Hosein Hemasian Etefagh" }]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = ["numpy>=1.22", "scipy>=1.8"]
 
 [project.optional-dependencies]
