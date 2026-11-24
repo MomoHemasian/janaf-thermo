@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this library in your work, please cite it as below."
+title: "janaf-thermo: JANAF (2nd ed., 1971) thermochemical tables in Python"
+type: software
+authors:
+  - family-names: "Hemasian Etefagh"
+    given-names: "Mohamad Hosein"
+version: 0.1.0
+date-released: 2026-11-23
+license: MIT
+references:
+  - type: report
+    title: "JANAF Thermochemical Tables, 2nd edition (NSRDS-NBS 37)"
+    authors:
+      - family-names: "Stull"
+        given-names: "D. R."
+      - family-names: "Prophet"
+        given-names: "H."
+    institution:
+      name: "U.S. National Bureau of Standards"
+    year: 1971
